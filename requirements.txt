@@ -1,0 +1,15 @@
+langgraph>=0.0.39
+langchain>=0.1.17
+langchain-core>=0.1.45
+langchain-community>=0.0.34
+langchain-groq>=0.0.3
+tavily-python>=0.3.0
+groq>=0.4.2
+python-dotenv>=1.0.0
+
+# //mcp
+langchain-mcp-adapters
+mcp
+# //fastapi
+fastapi
+

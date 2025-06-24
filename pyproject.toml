@@ -1,0 +1,24 @@
+[project]
+name = "langgraph-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.13",
+    "groq>=0.4.2",
+    "ipykernel>=6.29.5",
+    "langchain>=0.1.17",
+    "langchain-community>=0.0.34",
+    "langchain-core>=0.1.45",
+    "langchain-groq>=0.0.3",
+    "langchain-mcp-adapters>=0.1.7",
+    "langchain-tavily>=0.0.3",
+    "langgraph>=0.0.39",
+    "langsmith>=0.4.1",
+    "mcp>=1.9.4",
+    "python-dotenv>=1.0.0",
+    "streamlit>=1.46.0",
+    "tavily-python>=0.3.0",
+    "typing-extensions>=4.14.0",
+]
